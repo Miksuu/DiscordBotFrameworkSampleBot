@@ -1,1 +1,1 @@
-# DiscordBotFramework
+# DiscordBotFrameworkSampleBot

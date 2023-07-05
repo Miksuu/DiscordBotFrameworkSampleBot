@@ -1,8 +1,8 @@
 
 .vs/
 
-DiscordBotFramework/bin/Debug/net7.0/
+DiscordBotFrameworkSampleBot/bin/Debug/net7.0/
 
-DiscordBotFramework/obj/
+DiscordBotFrameworkSampleBot/obj/
 
-DiscordBotFramework/DiscordBotFrameworkSampleBotScripts/
+DiscordBotFrameworkSampleBot/DiscordBotFrameworkSampleBotScripts/
