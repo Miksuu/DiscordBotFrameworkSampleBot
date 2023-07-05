@@ -1,0 +1,3 @@
+[submodule "DiscordBotFrameworkSampleBot/DiscordBotFrameworkSampleBot"]
+	path = DiscordBotFrameworkSampleBot/DiscordBotFrameworkSampleBot
+	url = https://github.com/Miksuu/DiscordBotFramework.git
